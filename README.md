@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | Robotic Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raghuvir-singh-372554198/" target="_blank">
+  <a href="https://www.linkedin.com/in/raghuvir-singh-sengar-372554198/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn">
   </a>
   <a href="mailto:raghuvirs0804@gmail.com" target="_blank">
